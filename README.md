@@ -1,4 +1,4 @@
-<h1 align="center">📄 Paper2Project</h1>
+<h1 align="center">📄PAPER2PROJECT_AGENT</h1>
 
 <p align="center">
   <em>Transform any research paper into a working Python project & presentation – instantly!</em>
