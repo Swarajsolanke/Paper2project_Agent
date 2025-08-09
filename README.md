@@ -35,13 +35,6 @@ The core features include:
 > ⚙️ Seamless User Interface: Provides an intuitive web interface for easy interaction and project management.
 
 
-## 🧠 What is Paper2Project?
-
-> **Paper2Project** is a GenAI-based tool that allows you to upload a research paper and automatically generate:
-> 
-> ✅ A Python project structure with starter code  
-> ✅ A summarized PowerPoint presentation  
-> ✅ A curated dataset suggestion for experimentation  
 
 All this, directly from a single PDF! 🧾 ➜ 💻📊
 
