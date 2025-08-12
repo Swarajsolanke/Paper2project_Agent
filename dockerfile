@@ -1,5 +1,5 @@
 
-
+#pull the Lightwight linux based image from docker Hub
 FROM python:3.11-slim
 
 # Set environment variables
